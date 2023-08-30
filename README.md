@@ -5,7 +5,9 @@
 This project's purpose is to clean up the code from this website and make it easier to read from a programmer's standpoint. In doing this project I learned how to make a semantically proper website.  I also got to put into practice commenting on my changes.
 
 ## Github Link
-https://github.com/Flagg217/streamline_seo
+
+My repository link: https://github.com/Flagg217/streamline_seo
+My deployed link: https://flagg217.github.io/streamline_seo/
 
 
 ## Screenshots
